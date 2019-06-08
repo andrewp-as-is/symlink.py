@@ -1,5 +1,6 @@
 <!--
 https://pypi.org/project/readme-generator/
+https://pypi.org/project/python-readme-generator/
 -->
 
 [![](https://img.shields.io/pypi/pyversions/symlink.svg?longCache=True)](https://pypi.org/project/symlink/)
@@ -20,5 +21,5 @@ function|`__doc__`
 `symlink.update(source, link_name)` |create or update a symbolic link pointing to source named link_name
 
 <p align="center">
-    <a href="https://pypi.org/project/readme-generator/">readme-generator</a>
+    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
 </p>
